@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 body {
-    background-image: linear-gradient(to right, #6de93c, #4f9135);
+    background-image: linear-gradient(to right, #6C63FF, #302AA0);
 }
 #form-container {
     background-color: #FFF;
@@ -79,3 +79,14 @@ body {
 .btn.btn-primary {
     margin-top: 25px;
 }
+/* Image */
+
+.row.align-items-center {
+    align-content: center;
+    height: 100%;
+  }
+  
+  #link-container {
+    text-align: center;
+    padding-top: 50px;
+  }
